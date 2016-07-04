@@ -1,0 +1,29 @@
+William Guerrero
+12/7/2015
+
+Instructions on how to use the Clock program:
+
+Go into the Clock folder.
+
+Open clock.html in a Firefox browser. 
+
+
+To start the clock, press one of two buttons,
+	- Start/Stop begins the clock motion with an increased speed
+	- Toggle Clock Mode will show the correct real time
+
+After the clock has begun to move with increased speed,
+	- Toggle Clock Mode will show the correct time
+
+To go back to increased speed,
+	- Click Toggle Clock Mode again, then press Start/Stop
+
+While the clock is in Toggle Clock Mode,
+	- Set the time hours and minutes under Set Alarm, and press Set Alarm
+	  to set an alarm at the specified time.
+	- To turn the alarm off, click the snooze button
+
+In either mode,
+	- Zoom In/Zoom Out are self - explanitory
+
+The Common folder contains the Shader files for WebGL. 
